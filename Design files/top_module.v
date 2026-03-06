@@ -1,8 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Engineer: Arun
+
 // 
-// Create Date: 22.06.2025 12:10:44
 // Design Name: RISC-V processor
 // Module Name: top_module
 // Project Name: RISC-V RV32I Single cycle processor implementing R, I, S, B & J-type instructions
